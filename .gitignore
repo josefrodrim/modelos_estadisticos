@@ -25,7 +25,7 @@ ENV/
 # ================================
 data/
 datasets/
-*.csv
+
 *.xlsx
 *.parquet
 
